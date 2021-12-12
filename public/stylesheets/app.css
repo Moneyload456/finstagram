@@ -1,0 +1,42 @@
+header{
+    background-color: #026480;
+    color: #e8fdff;
+}
+
+body{
+    background-color: #dcf4f8;
+}
+
+main {
+    background-color:#c5faff;
+    padding: 20px;
+}
+
+.finstagram-post{
+    margin-bottom:60px;
+}
+
+.finstagram-post .user-info img{
+    border-radius: 50%;
+}
+
+
+.finstagram-post .photo img{
+    border-radius: 10%;
+}
+
+body{
+    font-family: 'Source Sans Pro', sans-serif
+}
+
+a.photo:hover{
+    padding: 10px;
+}
+
+a.photo{
+    transition: padding 0.5s;
+}
+
+.finstagram-post .user-info h2:hover{
+    color:cornflowerblue
+}
